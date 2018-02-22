@@ -1,0 +1,22 @@
+body {
+  font-family: 'Lato';
+  margin-top: 200px;
+  text-align: center;
+  color: white;
+  background-color: #503030;
+}
+
+#time {
+  font-weight: 200;
+  font-size: 70px;
+}
+
+#day {
+  font-weight: 200;
+  font-size: 70px;
+}
+
+#nextyear {
+  font-weight: 200;
+  font-size: 50px;
+}
