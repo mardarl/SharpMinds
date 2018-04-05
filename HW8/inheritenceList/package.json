@@ -1,0 +1,18 @@
+{
+  "name": "inheritencelist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Olesia Mardar",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "package.json": "^2.0.1"
+  },
+  "dependencies": {},
+  "description": ""
+}

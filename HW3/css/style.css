@@ -1,22 +1,74 @@
 body {
   font-family: 'Lato';
-  margin-top: 200px;
+  margin-top: 50px;
   text-align: center;
   color: white;
   background-color: #503030;
 }
 
-#time {
+#timenow {
+  margin-top: 50px;
   font-weight: 200;
   font-size: 70px;
 }
 
 #day {
+  margin-top: 100px;
   font-weight: 200;
   font-size: 70px;
 }
 
 #nextyear {
+  margin-top: 50px;
   font-weight: 200;
   font-size: 50px;
+}
+
+#add{
+  font-family: 'Lato';
+  margin: 30px;
+  text-align: center;
+  color: white;
+  background-color: #503030; 
+  font-weight: 200;
+  font-size: 30px;
+  border:none;
+}
+
+ul {
+  font-family: 'Lato';
+  margin-top: 50px;
+  text-align: left;
+  color: white;
+  font-weight: 200;
+  font-size: 30px;
+}
+
+#create{
+  font-family: 'Lato';
+  margin: 30px;
+  text-align: center;
+  color: white;
+  background-color: #503030; 
+  font-weight: 200;
+  font-size: 50px;
+  border:none;
+}
+
+#time {
+  margin-top: 100px;
+  font-weight: 200;
+  font-size: 30px;
+  color: white;
+  background-color: #503030; 
+  border:none;
+}
+
+#date {
+  margin-top: 100px;
+  font-weight: 200;
+  font-size: 30px;
+  color: white;
+  background-color: #503030; 
+  border:none;
 }
